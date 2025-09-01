@@ -20,6 +20,11 @@ h2 {
     background-color: #f5f5f5;
 }
 
+.caja.active {
+    color: rgb(0, 225, 255);
+    border-radius: 100px;
+}
+
 .caja.destacada {
     background-color: #d1e7dd;
     border-color: #0f5132;
