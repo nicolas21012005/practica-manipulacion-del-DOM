@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+section {
+    margin-bottom: 40px;
+}
+
+h2 {
+    margin-bottom: 20px;
+    color: #1B33;
+}
+
+.caja {
+    border: 2px solid #333;
+    padding: 15px;
+    margin: 20px;
+    border-radius: 8px;
+    background-color: #f5f5f5;
+}
+
+.caja.destacada {
+    background-color: #d1e7dd;
+    border-color: #0f5132;
+}
+
+img {
+    width: 500px;
+}
